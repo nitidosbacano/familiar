@@ -1,0 +1,9 @@
+Jose	Maria	Acevedo	Rojas	ABUELO	M	1928/10/02	2013/03/13
+Ana		Cortes	Bernal	ABUELA	F	1950/04/07	
+Martha	Patricia	Acevedo	Vasquez	HIJA	F	1972/10/15	
+Sandra	Marcela	Acevedo	Vasquez	HIJA	F	1978/08/15	
+Juan	Carlos	Acevedo	Vasquez	HIJO	M	1974/06/05	
+Adriana	Marcela	Ramos	Ramos	NUERA	F	1974/10/27	
+Laura	Camila	Acevedo	Ramos	NIETA	F	1995/12/07	
+Juan	Pablo	Acevedo	Ramos	NIETO	M	1997/12/13	
+Ana	Maria	Acevedo	Ramos	NIETA	F	2005/06/16	
